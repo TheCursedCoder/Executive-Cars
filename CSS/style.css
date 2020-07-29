@@ -160,17 +160,17 @@ body {
   html {
     font-size: 45%;
   }
+
+  #contact-form {
+    margin: 2rem;
+  }
+
+  .fleet-content__img {
+    margin-top: 5rem;
+  }
 }
 
-@media (max-width: 400px) {
-  .hero-img {
-    padding-bottom: 10rem;
-  }
-  html {
-    font-size: 45%;
-  }
-}
-
+/* code */
 h1,
 h2,
 h3 {
