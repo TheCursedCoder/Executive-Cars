@@ -158,11 +158,11 @@ body {
     padding-bottom: 10rem;
   }
   html {
-    font-size: 50%;
+    font-size: 48%;
   }
 
   #contact-form {
-    margin: 5rem;
+    padding: 0 3rem;
   }
 
   .fleet-content__img {
@@ -170,7 +170,11 @@ body {
   }
 
   .price-section {
-    margin-top: 5rem;
+    padding-top: 12rem;
+  }
+
+  .services-cards {
+    margin: 5rem;
   }
 }
 
