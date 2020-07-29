@@ -2,7 +2,7 @@
 <?php
 
 if($_POST["submit"]) {
-    $recipient="kirsty.rogers@hotmail.co.uk";
+    $recipient="randomrubbishemail@gmail.com";
     $subject="Website Query";
     $sender=$_POST["name"];
     $senderEmail=$_POST["email"];
