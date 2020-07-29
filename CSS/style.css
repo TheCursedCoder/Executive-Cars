@@ -473,6 +473,10 @@ a {
   margin: 0 auto;
 }
 
+input {
+  color: white;
+}
+
 label {
   font-size: 1.5rem;
 }
@@ -482,6 +486,7 @@ label {
   margin-bottom: 1.5rem;
   background: transparent;
   border: 1px solid #ab8d3f;
+  color: white;
 }
 
 #submit {
