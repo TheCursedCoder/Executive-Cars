@@ -162,10 +162,14 @@ body {
   }
 
   #contact-form {
-    margin: 2rem;
+    margin: 5rem;
   }
 
   .fleet-content__img {
+    margin-top: 8rem;
+  }
+
+  .price-section {
     margin-top: 5rem;
   }
 }
